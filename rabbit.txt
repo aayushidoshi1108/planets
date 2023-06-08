@@ -1,9 +1,10 @@
 Hello Rabbit! Would you like a kale and mango smoothie?
 
 
-1. CHange file
+1. Change file
 2. Save file
-3. git add
-4. Git status
-5. git commit -m "I made changes"
+3. git add .
+4. git status
+5. git commit -m "I made changes" {or whatever else you want to write that 
+   shows up on github}
 6. git push
