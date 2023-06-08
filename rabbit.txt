@@ -1,5 +1,7 @@
 Hello Rabbit! Would you like a kale and mango smoothie?
 
+Steps to follow when changing the .txt file while making changes to your 
+github repository
 
 1. Change file
 2. Save file
